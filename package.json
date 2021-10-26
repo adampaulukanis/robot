@@ -1,0 +1,23 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "Project: a robot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "./node_modules/nodemon/bin/nodemon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adampaulukanis/robot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adampaulukanis/robot/issues"
+  },
+  "homepage": "https://github.com/adampaulukanis/robot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
